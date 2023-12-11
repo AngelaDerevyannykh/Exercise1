@@ -3,5 +3,6 @@
 
 ### Сборка проекта:
 1. Клонировать репозиторий.
-2. Собрать build:
+2. `cd Exerecise1`
+3. Собрать build:
 `sphinx-build -b html source/ build/`
